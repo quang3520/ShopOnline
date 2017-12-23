@@ -1,8 +1,9 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 * {
 	margin: 0;
 	padding: 0
 }
+//chu thich
 #banner_left_scroll {
   width: 130px;
   position: absolute;
