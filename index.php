@@ -1,3 +1,5 @@
+// chu thich
+// chu thich 23322
 // chu thich 1
 <?php
 	require("libraries/config.php");
