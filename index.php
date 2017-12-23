@@ -1,3 +1,4 @@
+// chu thich
 <?php
 	require("libraries/config.php");
 	require("libraries/database.php");
