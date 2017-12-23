@@ -1,3 +1,4 @@
+﻿// add
 <?php
 	$data = array();
 	$data['title'] = "Liên hệ";
