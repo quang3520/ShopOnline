@@ -3,6 +3,7 @@
 // chu thich 1
 <?php
 	require("libraries/config.php");
+	require("libraries/view2.php");
 	require("libraries/database.php");
 	require("libraries/functions.php");
 	if(isset($_GET['page'])){
