@@ -1,7 +1,10 @@
+<<<<<<< HEAD
+// chu thich 1
+=======
 // chu thich 23322
+>>>>>>> master
 <?php
 	require("libraries/config.php");
-	require("libraries/view.php");
 	require("libraries/database.php");
 	require("libraries/functions.php");
 	if(isset($_GET['page'])){
