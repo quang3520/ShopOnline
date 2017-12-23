@@ -4,4 +4,5 @@
 	$data['template'] = "main_home/register_view";
 	loadview("layout",$data);
 ?>
+//fix
 // dang ky 
